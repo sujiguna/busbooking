@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "375109320174",
+    "firebase_url": "https://susithra-46c73.firebaseio.com",
+    "project_id": "susithra-46c73",
+    "storage_bucket": "susithra-46c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375109320174:android:b0458b12a9b75064",
+        "android_client_info": {
+          "package_name": "com.example.hp.susithra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375109320174-v2cv36tq0sufefdiqpu8vgq5l5oblr5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.susithra",
+            "certificate_hash": "14433ea486bc8775c434d53aeca785345b9740e3"
+          }
+        },
+        {
+          "client_id": "375109320174-v3l0g66eea2ar8m3a454nr26nerdcv5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.susithra",
+            "certificate_hash": "d42ff9424ede6499910bad7a7a921422a4302619"
+          }
+        },
+        {
+          "client_id": "375109320174-n1b4rqoi3hl1fj718mnnk6qkl2kifi6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsUlffIyD8eLCSidYLFmaBKrkuEgPWs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375109320174-n1b4rqoi3hl1fj718mnnk6qkl2kifi6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
